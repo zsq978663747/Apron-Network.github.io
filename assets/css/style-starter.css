@@ -11696,3 +11696,12 @@ iframe {
   background:#0C59DB;
   width:20px;
 }
+.rebase{
+  color: #fff;
+}
+.rebase img{
+  height: 30px;
+  margin: -5px 0 0 10px;
+  display: inline-block;
+}
+
