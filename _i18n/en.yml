@@ -41,7 +41,7 @@ homepage:
       liDescrption: API services providers are penalized for mortgaging assets if services are not guaranteed.
     - liTitle: Multi-link ecological API interface
       classname: fa fa-cube
-      liDescrption: Access Polkdot、Eth、Eos、Filcion and other public chains to serve more application developers.
+      liDescrption: Access Polkadot、Eth、Eos、Filecoin and other public chains to serve more application developers.
     - liTitle: Instant availability
       classname: fa fa-clock-o
       liDescrption: Just write a piece of code to access your application.
