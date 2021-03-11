@@ -39,11 +39,11 @@ homepage:
       liDescrption: API service providers are penalized for mortgaging assets if services are not guaranteed.
     - liTitle: Multi-link ecological API interface
       classname: fa fa-cube
-      liDescrption: Access Polkdot、Eth、Eos、Filcion and other public chains to serve more application developers.
+      liDescrption: Access Polkadot、Ethereum、EOS、Filecoin and other public chains to serve more application developers.
     - liTitle: Instant Available
       classname: fa fa-clock-o
       liDescrption: Just write a piece of code to access your application.
-    - liTitle: Apron market
+    - liTitle: Apron Market
       classname: fa fa-line-chart
       liDescrption: More options for better API service providers based on API evaluations.
   labs:
@@ -62,7 +62,7 @@ homepage:
   team:
     subTitle: APRON NETWORK'S
     title: Project Team
-    li1Descrption: Postgraduate Diploma in Computing, Unitec Institute of Technology,Auckland. and Doctor of Information Security, Harbin Institute of Technology. Many years of Ethereum &Eos technological development experience.He has successfully led many blockchain projects to the ground and is a fanatic follower of blockchain technology.
+    li1Descrption: Postgraduate Diploma in Computing, Unitec Institute of Technology,Auckland. and Doctor of Information Security, Harbin Institute of Technology. Many years of Ethereum &EOS technological development experience.He has successfully led many blockchain projects to the ground and is a fanatic follower of blockchain technology.
     li2Descrption: Sean holds a PhD from Asia Gaa Ulster University and has been working in the digital world. Has many years of rich experience in marketing. As a big fan of blockchain, he has been active in various frontier communities and has many years of experience in researching digital currency.
     li3Descrption: Graduated from United States and university. Experienced Technical Manager with a demonstrated history of working in the computer and network security industry. Skilled at Data Centers, corporate services, and production, customer facing infrastructures globally. Strong professional graduated from American InterContinental University.
   media:
@@ -73,7 +73,7 @@ homepage:
     - title: 2021.Q1
       description: <div>Complete the Web3 Open Grants application</div><div>Complete the Apron Network White Paper</div><div>Establish the foundation of Apron Network</div><div>Release ERC20 token and complete private placement</div><div>Complete the development of POC version</div>
     - title: 2021.Q2
-      description: <div>Release Apron Network Beta 1.0 version</div><div>Provide node services for Ethereum</div><div>Provide node services for Polkadot</div><div>Release Apron market</div>
+      description: <div>Release Apron Network Beta 1.0 version</div><div>Provide node services for Ethereum</div><div>Provide node services for Polkadot</div><div>Release Apron Market</div>
     - title: 2021.Q3
       description: <div> Connect to multi-public blockchain node service</div><div>Release the ApronSDK</div><div>Starting public BETA</div>
     - title: 2021.Q4

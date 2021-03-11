@@ -5,7 +5,7 @@ global:
 nav:
   home: 首页
   documents: 文档
-  market: 市场
+  market: 服务市场
   explorer: 浏览器
   whitepaper: 白皮书
   blog: 文章
@@ -40,11 +40,11 @@ homepage:
       liDescrption: API 服务商抵押资产，如无法保证服务，将对服务商进行惩罚
     - liTitle: 多链生态接 API 接口
       classname: fa fa-cube
-      liDescrption: 接入 Polkdot、Eth、Eos、Filecion 等公链，服务更多的应用开发者
+      liDescrption: 接入 Polkadot、Ethereum、EOS、Filecoin 等公链，服务更多的应用开发者
     - liTitle: 即时可用
       classname: fa fa-clock-o
       liDescrption: 只需写一段代码，既可以接入您的应用程序
-    - liTitle: Apron市场
+    - liTitle: Apron 市场
       classname: fa fa-line-chart
       liDescrption: 更多选择，可以根据 API 评价选择更优质的 API 服务者
   labs:
@@ -56,7 +56,7 @@ homepage:
       liDescrption: 我们有全球各地的专家，可以为 Apron Network 提供全面的技术支持和技术保障
     - liTitle: 商业扶持
       classname: fa fa-television
-      liDescrption: 如果您有好的 DApp 项目，我们可以为您提供一部分 Apron Token 支持你使用 API 服务
+      liDescrption: 如果您有好的 DApp 项目，我们可以为您提供一部分 APN 支持你使用 API 服务
     - liTitle: 特殊定制
       classname: fa fa-lightbulb-o
       liDescrption: 如果您是大型商业组织，我们很有兴趣为您定制专属的服务计划，让更多优质服务商为您提供服务
@@ -67,7 +67,7 @@ homepage:
     li2Descrption: Sean 拥有Asia Gaa Ulster大学的博士学位，一直在数字世界工作。有多年丰富的市场营销经验。是一直活跃在各个前沿社区的区块链忠实粉丝，在研究数字货币方面有着多年的经验
     li3Descrption: 毕业于美国洲际大学，具有很强的专业性强。是经验丰富的技术经理，有计算机和网络安全行业工作经验。精通数据中心、企业服务和面向全球客户的生产基础设施。
   media:
-    description: 不要错过在社交网络上关注我们
+    description: 请在社交网络上关注我们
   roadmaptop:
     title: Apron Network Roadmap
   roadmap:
@@ -81,7 +81,7 @@ homepage:
       description: <div>接入多个公链节点服务</div><div>发布Apron SDK</div><div>开始公测</div>
 
     - title: 2021.Q4
-      description: <div>Apron Network主网上线</div><div>构建DAO</div><div>为Apron NetWork接入更多传统基础设施服务</div><div>移交Apron NetWork</div>
+      description: <div>Apron Network主网上线</div><div>为Apron Network构建DAO</div><div>为Apron Network接入更多传统基础设施服务</div><div>移交Apron NetWork</div>
 aboutus:
-  description: <p>Apron Network 致力于建立一个去中心化的基础设施服务网络平台，为应用开发者们、应用使用者们和基础设施运营者们提供基于区块链技术基础设施服务的去中心化网络。Apron Network 将为 Kusama 和 Polkadot 生态提供节点服务、链上数据索引、报价等基础设施服务。</p><p>联系 <a href="mailto:contact@apron.networ">contact@apron.network</a> 获取更多信息。</p>
+  description: <p>Apron Network 致力于建立一个去中心化的基础设施服务网络平台，为应用开发者们、应用使用者们和基础设施运营者们提供基于区块链技术基础设施服务的去中心化网络。Apron Network 将为 Kusama 和 Polkadot 生态提供节点服务、链上数据索引、报价等基础设施服务。</p><p>联系 <a href="mailto:contact@apron.network">contact@apron.network</a> 获取更多信息。</p>
 
